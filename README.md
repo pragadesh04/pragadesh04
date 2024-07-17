@@ -12,6 +12,7 @@ I'm a passionate and versatile developer with a wide range of skills in web deve
 - **Programming Languages**: Java, C, Python
 - **Multimedia**: Blender, Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop
 - **Other Tools**: Git, GitHub, Visual Studio Code
+
 ### Languages Known
 
 <p align="left">
@@ -22,7 +23,9 @@ I'm a passionate and versatile developer with a wide range of skills in web deve
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
-</p>### 📈 GitHub Stats
+</p>
+
+### 📈 GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praga866&layout=compact&hide_border=true&theme=radical" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=radical&hide_border=true" alt="Praga866" />
