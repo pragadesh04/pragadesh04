@@ -27,7 +27,7 @@ I'm a passionate and versatile developer with a wide range of skills in web deve
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=radical&hide_border=true" alt="Praga866" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=javascript-dark&hide_border=false" alt="Praga866" />
 
 ## Other Skills
 
