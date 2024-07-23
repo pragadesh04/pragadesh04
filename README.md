@@ -1,12 +1,12 @@
 ## Praga866's GitHub Profile
-
-<img align="right" height="600" width="800" src="[thoughtworks-gif_dribbble.gif (800×600)](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)">
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
+<img align="right" height="250" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif">
 
 # Hello, I'm Praga866 👋
 
 I'm a passionate and versatile developer with a wide range of skills in web development, programming, and multimedia creation. My journey in the tech world has been filled with exciting projects, continuous learning, and a deep fascination for problem-solving.
+
+
+<img align="center" height="250" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
 
 ## 🛠️ Skills and Technologies
 
@@ -29,7 +29,7 @@ I'm a passionate and versatile developer with a wide range of skills in web deve
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Praga866&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+<img align="center" height="200" width="800" src="https://github-readme-stats.vercel.app/api?username=Praga866&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
 
 ## Other Skills
 
