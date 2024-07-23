@@ -1,5 +1,7 @@
 ## Praga866's GitHub Profile
 
+<img align="right" height="600" width="800" src="[thoughtworks-gif_dribbble.gif (800×600)](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)">
+
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
 
 # Hello, I'm Praga866 👋
