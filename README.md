@@ -1,11 +1,7 @@
 
 # Hello, I'm Pragadesh R 👋
 &emsp;&emsp;&emsp;I'm a passionate and versatile developer with a wide range of skills in web development, programming, and multimedia creation. My journey in the tech world has been filled with exciting projects, continuous learning, and a deep fascination for problem-solving.
-
-<br>
-
 <img align="center" height="200" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif">
-
 ## 🛠️ Skills and Technologies
 
 - **Web Development**: HTML, CSS, JavaScript, React, jQuery  
