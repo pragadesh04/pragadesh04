@@ -1,11 +1,11 @@
 ## Praga866's GitHub Profile
 <img align="right" height="250" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif">
 
-# Hello, I'm Praga866 👋
+<h2>Hello, I'm Praga866 👋 </h2>
 
 I'm a passionate and versatile developer with a wide range of skills in web development, programming, and multimedia creation. My journey in the tech world has been filled with exciting projects, continuous learning, and a deep fascination for problem-solving.
 
-<br>
+<br><br><br>
 
 <img align="center" height="175" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
 
