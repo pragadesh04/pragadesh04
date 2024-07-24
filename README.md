@@ -4,6 +4,13 @@
 
 I'm a passionate and versatile developer with a wide range of skills in web development, programming, and multimedia creation. My journey in the tech world has been filled with exciting projects, continuous learning, and a deep fascination for problem-solving.
 
+- 🌱 I’m currently learning **Python Automation**
+
+- 🤝 I’m looking for help to Learn **Advanced Python**
+
+- 👨‍💻 All of my projects are available at [https://praga866.github.io/Portfolio/](https://praga866.github.io/Portfolio/)
+
+- 📫 How to reach me **pragaofficial004@gmail.com**
 <br>
 
 <img align="center" height="175" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
