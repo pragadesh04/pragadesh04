@@ -1,20 +1,19 @@
-## Praga866's GitHub Profile
 <img align="right" height="250" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif">
 
-<h2>Hello, I'm Praga866 👋 </h2>
+# Hello, I'm Pragadesh R 👋
 
 I'm a passionate and versatile developer with a wide range of skills in web development, programming, and multimedia creation. My journey in the tech world has been filled with exciting projects, continuous learning, and a deep fascination for problem-solving.
 
-<br><br><br>
+<br>
 
 <img align="center" height="175" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
 
 ## 🛠️ Skills and Technologies
 
-- **Web Development**: HTML, CSS, JavaScript, React, jQuery
-- **Programming Languages**: Java, C, Python
-- **Multimedia**: Blender, Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop
-- **Other Tools**: Git, GitHub, Visual Studio Code
+- **Web Development**: HTML, CSS, JavaScript, React, jQuery  
+- **Programming Languages**: Java, C, Python  
+- **Multimedia**: Blender, Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop  
+- **Other Tools**: Git, GitHub, Visual Studio Code  
 
 ## Languages Known
 
@@ -58,25 +57,29 @@ I'm a passionate and versatile developer with a wide range of skills in web deve
   </a>
 </p>
 
-### 📚 Featured Projects
+## 📚 Featured Projects
 
 Here are some of my notable projects:
 
-1. **[imgToPdf]([https://github.com/Praga866/project1](https://github.com/Praga866/-img-2-PDF-))**: converts multiple images (JPEG, PNG, etc.) into a single PDF with customizable layouts. Easy command-line interface. Clone the repo, install dependencies, and run. Contribute to improve it.
-2. **[Responsive portfolio]([https://github.com/Praga866/project2](https://github.com/Praga866/Portfolio))**:  contains a collection of my details, projects and work samples to showcase their skills and experience.
-3. **[Money partner]([https://github.com/Praga866/project3](https://github.com/Praga866/MoneyPartner))**: an money monitoring app, to calculate the expenses
-4. **[BabyBlink Billing]([https://github.com/Praga866/project4](https://github.com/Praga866/babybyblinkbilling))**: A billing site, for our family business, that records the datas of the customer easy to type kee track of
+1. **[imgToPdf](https://github.com/Praga866/-img-2-PDF-)**: Converts multiple images (JPEG, PNG, etc.) into a single PDF with customizable layouts. Easy command-line interface. Clone the repo, install dependencies, and run. Contribute to improve it.
+  
+2. **[Responsive Portfolio](https://github.com/Praga866/Portfolio)**: A collection of my details, projects, and work samples to showcase my skills and experience.
+  
+3. **[Money Partner](https://github.com/Praga866/MoneyPartner)**: A money monitoring app to calculate expenses.
+  
+4. **[BabyBlink Billing](https://github.com/Praga866/babybyblinkbilling)**: A billing site for my family business that records customer data easily.
 
-### 🌟 Achievements and Contributions
+## 🌟 Achievements and Contributions
 
 - 
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 Feel free to reach out to me through the following channels:
 
-- Email: [praga866@example.com](mailto:praga866@example.com)
+- **Email**: [praga866@example.com](mailto:praga866@example.com)
 
 I'm always excited to collaborate on new projects, discuss ideas, or simply connect with fellow tech enthusiasts. Let's build something amazing together!
 
-
+Citations:
+[1] https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif
