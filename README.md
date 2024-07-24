@@ -12,7 +12,7 @@ I'm a passionate and versatile developer with a wide range of skills in web deve
 <br>
 
 <img align="left" height="150" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif">
-<img align="right" height="175" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
+<img align="center" height="175" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
 
 ## 🛠️ Skills and Technologies
 
