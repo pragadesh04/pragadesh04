@@ -5,8 +5,9 @@
 
 I'm a passionate and versatile developer with a wide range of skills in web development, programming, and multimedia creation. My journey in the tech world has been filled with exciting projects, continuous learning, and a deep fascination for problem-solving.
 
+<br>
 
-<img align="center" height="250" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
+<img align="center" height="175" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
 
 ## 🛠️ Skills and Technologies
 
