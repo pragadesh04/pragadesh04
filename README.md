@@ -26,7 +26,7 @@
 
 ## 📈 GitHub Stats
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Praga866&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=pragadesh04&theme=chartreuse-dark&hide_border=false" alt="Praga866" />
 
 ## Other Skills
 
