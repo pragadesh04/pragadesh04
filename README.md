@@ -74,7 +74,7 @@ Here are some of my notable projects:
 
 Feel free to reach out to me through the following channels:
 
-- **Email**: [praga866@example.com](mailto:praga866@example.com)
+- **Email**: [pragaofficial004@gmail.com](pragaofficial004@gmail.com)
 
 I'm always excited to collaborate on new projects, discuss ideas, or simply connect with fellow tech enthusiasts. Let's build something amazing together!
 
