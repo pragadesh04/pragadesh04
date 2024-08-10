@@ -76,3 +76,4 @@ Feel free to reach out to me through the following channels:
 
 I'm always excited to collaborate on new projects, discuss ideas, or simply connect with fellow tech enthusiasts. Let's build something amazing together!
 
+## Some of my Projects..
