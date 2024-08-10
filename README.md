@@ -72,9 +72,7 @@ Here are some of my notable projects:
 
 Feel free to reach out to me through the following channels:
 
-- **Email**: [pragaofficial004@gmail.com](pragaofficial004@gmail.com)
+- **Email**: [pragadeshr04@gmail.com](pragadeshr04@gmail.com)
 
 I'm always excited to collaborate on new projects, discuss ideas, or simply connect with fellow tech enthusiasts. Let's build something amazing together!
 
-Citations:
-[1] https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif
