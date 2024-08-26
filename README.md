@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills and Technologies
 
-- **Web Development**: HTML, CSS, JavaScript, React, jQuery  
+- **Web Development**: HTML, CSS, JavaScript
 - **Programming Languages**: Java, C, Python  
 - **Multimedia**: Blender, Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop  
 - **Other Tools**: Git, GitHub, Visual Studio Code  
